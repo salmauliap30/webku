@@ -10,8 +10,8 @@ body{
     margin:auto;
     height:120px;
     line-height:120px;
-    background: #f8f588;
-    color:#fff;
+    background: #f88888;
+    color:#888;
 }
 .jarak{
     padding:0 2pc;
@@ -40,6 +40,7 @@ body{
     background-color: #4b88bb;
     display:block;
 }
+
 
 
 
