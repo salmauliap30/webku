@@ -5,6 +5,7 @@ body{
     font-family:sans-serif;
     margin:0 auto;
 }
+
 .header{
     width:90%;
     margin:auto;
@@ -13,9 +14,11 @@ body{
     background: #f88888;
     color:#f58;
 }
+
 .jarak{
     padding:0 2pc;
 }
+
 .menu{
     background-color:#417aa8;
     height:50px;
@@ -25,9 +28,11 @@ body{
     margin:0 auto;
     padding:0 auto;
 }
+
 .menu ul {
     list-style:none;
 }
+
 .menu ul li a {
     float:left;
     width:70px;
@@ -36,11 +41,20 @@ body{
     color:#FFF;
     text-decoration:none;
 }
+
 .menu ul li a:hover {
     background-color: #4b88bb;
     display:block;
 }
 
+.content{
+width:90%;
+margin:auto;
+height:420px;
+padding:0.1px;
+background:#fff;
+color:#333;
+}
 
 
 
